@@ -1,0 +1,21 @@
+{
+  "movies": 2000,
+  "html_files": 2014,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_covered": 2000,
+  "baidu_html_pages": 2014,
+  "image_files_in_output": 0,
+  "category_counts": {
+    "documentary-variety": 200,
+    "global-selection": 200,
+    "classic-series": 200,
+    "action-adventure": 200,
+    "fantasy-sci-fi": 200,
+    "comedy-life": 200,
+    "romance-city": 200,
+    "family-drama": 200,
+    "history-costume": 200,
+    "suspense-crime": 200
+  }
+}
